@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matt</h1>
+![image](https://user-images.githubusercontent.com/29243004/200371676-6a23340b-3ec3-4f38-ab00-e87f87e3e20d.png)
 <h3 align="center">Full-Stack whose migrated to web3 engineer and product.</h3>
 
 - 🌱 I’m currently learning **Motoko, Radicle, & Lens Protocol**
